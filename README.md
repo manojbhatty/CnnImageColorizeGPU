@@ -4,5 +4,5 @@ This is a small project I did back in 2016 or so for fun that I decided to publi
 
 ## Concept
 
-Train a CNN model to convert black & white images into colored images.
+Train a CNN model to convert black & white images into colored images. 
 
